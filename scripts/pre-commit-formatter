@@ -1,0 +1,3 @@
+#!/bin/sh
+
+npm run format || { echo 'Changes have been made by prettier and staged. Please commit message again.' ; exit 1; }
