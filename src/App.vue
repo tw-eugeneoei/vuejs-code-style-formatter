@@ -11,6 +11,7 @@
             src="@/assets/logo.svg"
             width="125"
             height="125"
+            data-custom-attirbute="sample"
         />
 
         <div class="wrapper">
