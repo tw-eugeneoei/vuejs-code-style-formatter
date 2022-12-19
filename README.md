@@ -33,7 +33,7 @@ You can consider creating a `settings.json` file in `.vscode` folder and use the
 }
 ```
 
-Note that a `settings.json` file created in the `.vscode` folder is applied only to this project. If you want these settings to be applied across all projects you open in VSCode, you can set them in your user settings.json file instead.
+Note that a `settings.json` file created in the `.vscode` folder is applied only to this project. If you want these settings to be applied across all projects you open in VSCode, you can set them in your user `settings.json` file instead.
 
 # Notes
 
