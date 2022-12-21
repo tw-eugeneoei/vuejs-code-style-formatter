@@ -6,6 +6,8 @@ import router from "./router";
 
 import "./assets/main.css";
 
+import "@govtechsg/sgds/css/sgds.css";
+
 const app = createApp(App);
 
 app.use(createPinia());
